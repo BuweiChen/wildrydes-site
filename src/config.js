@@ -2,6 +2,6 @@
 
 module.exports = {
     api: {
-        invokeUrl: 'https://z5kn7873x6.execute-api.us-east-1.amazonaws.com/prod' 
+        invokeUrl: 'https://wfmq2p67ka.execute-api.us-east-1.amazonaws.com/prod' 
     }
 }
